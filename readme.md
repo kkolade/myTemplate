@@ -1,5 +1,7 @@
 # READ ME FOR ALL MY PROJECT
 
+Find below the usage for the folders I created
+
 * app folder - all backend/node codes.
 * src folder - All front-end source codes.
 * public folder - All public facing codes.
