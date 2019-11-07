@@ -1,12 +1,12 @@
 {
-  "name": "mytemplate2",
+  "name": "JavaScript Project Starting Template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Satrter Template for my JS project - work in progress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Kola Kolade",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2"
